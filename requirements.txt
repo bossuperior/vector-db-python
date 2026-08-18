@@ -1,0 +1,10 @@
+# Core data science and notebook tools
+jupyter
+numpy
+matplotlib
+
+# Vector database and embedding dependencies
+chromadb
+sqlite-vec
+open-clip-torch  # Required for OpenCLIPEmbeddingFunction in ChromaDB
+pillow           # Required for image loading
