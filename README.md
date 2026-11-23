@@ -1,6 +1,6 @@
 # Vector Database Python Learning Project
 
-This project demonstrates vector database implementations in Python using two different approaches:
+This project demonstrates vector database implementations in Python using two different database level:
 1. **SQLite + sqlite-vec**: Low-level vector search using an SQLite extension.
 2. **ChromaDB**: High-level vector database for text and multimodal (image) embeddings.
 
